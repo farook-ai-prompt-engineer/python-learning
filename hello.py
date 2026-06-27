@@ -1,5 +1,7 @@
-print("hello farook")
-print("welcome to python")
-print("future AI engineer")
+name = "Farook"
+dream = "AI Engineer"
+country = "India"
 
-
+print(name)
+print(dream)
+print(country)
